@@ -33,5 +33,5 @@ Check out the live app here: [To-Do App Demo](https://to-do-app-theta-indol.verc
 
 ### 1. Clone the repository
 ```bash
-git clone <>
+git clone <https://github.com/Kaushiki-Kesarwani/to-do-app.git>
 cd <to-do-app>
