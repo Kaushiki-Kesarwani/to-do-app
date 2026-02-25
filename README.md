@@ -24,8 +24,8 @@ Check out the live app here: [To-Do App Demo](https://to-do-app-theta-indol.verc
 
 - **Frontend:** React
 - **Deployment:** Vercel
-- **Styling:** CSS / Tailwind CSS (if used)
-- **State Management:** useState, useEffect (React Hooks)
+- **Styling:** CSS 
+- **State Management:** useState, useEffect ,useRef(React Hooks)
 
 ---
 
